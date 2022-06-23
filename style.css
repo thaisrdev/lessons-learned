@@ -1,22 +1,76 @@
 body {
     background-color: rgb(253, 251, 251);
     font-family: monospace, sans-serif;
-    color:rgb(3, 13, 43);
+    color:rgb(20, 2, 53);
     font-size: 15px;
     line-height: 15px;  
 }
 
 header {
 position: fixed;
-top: 0px;
+top: 0;
+background-color: rgb(219, 214, 135);
+color: rgb(92, 5, 126);
+font-weight: bolder;
+text-align: center;
+width: 100%;
+
+}
+
+footer {
+    background-color: rgb(219, 214, 135);
+    color: rgb(92, 5, 126);
+    text-align: center;
+    
 }
 
 
+#conteudo {
+    padding: 5em 30px;
+    border: 2px solid rgb(92, 5, 126);
+    vertical-align: top;
+    text-align: center;
+    font-size: 15px;
+    line-height: 20px;
+    
+
+}
+
+.lado-esquerdo {
+    display: inline-block ;
+    text-align: justify;
+    margin: 30px;
+    width: 18%;
+    vertical-align: top;
+    margin-right: 250px;
+    
+
+}
+
+.lado-direito {
+    display:inline-block;
+    text-align: justify;
+    margin: 30px;
+    width: 18%;
+    vertical-align: top;
+    
 
 
+}
 
+#minha_foto {
+    border-radius: 50%;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
 
-
+table {
+    line-height: 20px;
+    
+}
 
 
 
