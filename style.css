@@ -14,16 +14,13 @@ color: rgb(92, 5, 126);
 font-weight: bolder;
 text-align: center;
 width: 100%;
-
 }
 
 footer {
     background-color: rgb(219, 214, 135);
     color: rgb(92, 5, 126);
-    text-align: center;
-    
+    text-align: center;    
 }
-
 
 #conteudo {
     padding: 5em 30px;
@@ -32,8 +29,6 @@ footer {
     text-align: center;
     font-size: 15px;
     line-height: 20px;
-    
-
 }
 
 .lado-esquerdo {
@@ -42,9 +37,7 @@ footer {
     margin: 30px;
     width: 18%;
     vertical-align: top;
-    margin-right: 250px;
-    
-
+    margin-right: 250px;  
 }
 
 .lado-direito {
@@ -52,10 +45,7 @@ footer {
     text-align: justify;
     margin: 30px;
     width: 18%;
-    vertical-align: top;
-    
-
-
+    vertical-align: top;  
 }
 
 #minha_foto {
@@ -63,13 +53,13 @@ footer {
     width: 300px;
     display: block;
     margin-left: auto;
-    margin-right: auto;
-    
+    margin-right: auto;   
 }
+
 
 table {
     line-height: 20px;
-    
+    margin-left: 35%    
 }
 
 
