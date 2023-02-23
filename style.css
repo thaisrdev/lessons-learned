@@ -1,7 +1,7 @@
 body {
     background-color: rgb(253, 251, 251);
     font-family: monospace, sans-serif;
-    color:rgb(20, 2, 53);
+    color: rgb(20, 2, 53);
     font-size: 15px;
     line-height: 15px;  
 }
@@ -32,7 +32,7 @@ footer {
 }
 
 .lado-esquerdo {
-    display: inline-block ;
+    display: inline-block;
     text-align: justify;
     margin: 30px;
     width: 18%;
@@ -41,7 +41,7 @@ footer {
 }
 
 .lado-direito {
-    display:inline-block;
+    display: inline-block;
     text-align: justify;
     margin: 30px;
     width: 18%;
@@ -59,8 +59,5 @@ footer {
 
 table {
     line-height: 20px;
-    margin-left: 35%    
+    margin-left: 35%;    
 }
-
-
-
